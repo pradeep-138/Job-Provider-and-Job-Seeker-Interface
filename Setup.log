@@ -1,0 +1,26 @@
+﻿2021-10-20 08:27:16.789   Log opened. (Time zone: UTC+05:30)
+2021-10-20 08:27:16.789   Setup version: Inno Setup version 5.5.9 (u)
+2021-10-20 08:27:16.789   Original Setup EXE: C:\ProgramData\Lenovo\ImController\SystemPluginData\LenovoSystemUpdatePlugin\session\Repository\cfvgf10038\setup.exe
+2021-10-20 08:27:16.789   Setup command line: /SL5="$F0626,10474704,180224,C:\ProgramData\Lenovo\ImController\SystemPluginData\LenovoSystemUpdatePlugin\session\Repository\cfvgf10038\setup.exe" /VERYSILENT /LOG="C:\Setup.log"
+2021-10-20 08:27:16.789   Windows version: 10.0.19043  (NT platform: Yes)
+2021-10-20 08:27:16.789   64-bit Windows: Yes
+2021-10-20 08:27:16.789   Processor architecture: x64
+2021-10-20 08:27:16.789   User privileges: Administrative
+2021-10-20 08:27:16.791   64-bit install mode: Yes
+2021-10-20 08:27:16.802   Created temporary directory: C:\WINDOWS\TempInst\is-KCVA0.tmp
+2021-10-20 08:27:16.811   Extracting temporary file: C:\WINDOWS\TempInst\is-KCVA0.tmp\devcon.exe
+2021-10-20 08:27:16.818   Extracting temporary file: C:\WINDOWS\TempInst\is-KCVA0.tmp\InstallSetting.exe
+2021-10-20 08:27:16.949   InstallParam=checkled -ledver 2.0.1.16 InstallSettingCode=0
+2021-10-20 08:27:16.966   InstallParam=checkyled -yledver 2.1.1.16 InstallSettingCode=0
+2021-10-20 08:27:16.986   InstallParam=checknetfilter -netfilterver 4.0.0.51 InstallSettingCode=2
+2021-10-20 08:27:16.986   Extracting temporary file: C:\WINDOWS\TempInst\is-KCVA0.tmp\FBNetFlt.sys
+2021-10-20 08:27:16.991   Extracting temporary file: C:\WINDOWS\TempInst\is-KCVA0.tmp\FBNetFilter.inf
+2021-10-20 08:27:16.992   Extracting temporary file: C:\WINDOWS\TempInst\is-KCVA0.tmp\fbnetfilter.cat
+2021-10-20 08:27:16.994   Extracting temporary file: C:\WINDOWS\TempInst\is-KCVA0.tmp\FBNetFilterInstall.exe
+2021-10-20 08:27:17.769   InstallLedDriver InstallNetDriver=0
+2021-10-20 08:27:17.854   InstallParam=checkxtu -xtu 7.4.2.9 InstallSettingCode=0
+2021-10-20 08:27:17.854   ResultCode=0
+2021-10-20 08:27:17.854   InitializeSetup returned False; aborting.
+2021-10-20 08:27:17.854   Got EAbort exception.
+2021-10-20 08:27:17.854   Deinitializing Setup.
+2021-10-20 08:27:17.855   Log closed.
